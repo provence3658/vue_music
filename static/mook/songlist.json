@@ -1,0 +1,406 @@
+{
+  "ret": true,
+	"data": {
+    "songlist" : [
+      {
+        "id": "0001",
+        "img": "http://oiq8j9er1.bkt.clouddn.com/music_far%20away.jpg",
+        "title": "我喜欢的音乐",
+        "num": "15",
+        "songs": [
+          {
+            "id": "0003",
+            "songId": "1",
+            "songName": "魔鬼中的天使",
+            "singer": "田馥甄",
+            "img": "http://p1.music.126.net/W9HqFsgMcjgWjW9SutIvrw==/18956679974613469.jpg?param=130y130"
+          },
+          {
+            "id": "0004",
+            "songId": "2",
+            "songName": "不用去猜",
+            "singer": "Jony J",
+            "img": "http://p1.music.126.net/h_1u3v9vTCRWN_ZJlVdQkQ==/18523472395121303.jpg?param=130y130"
+          },
+          {
+            "id": "0005",
+            "songId": "3",
+            "songName": "想把你留在这里 - (电影《芳华》推广曲)",
+            "singer": "Tizzy T/Jony J",
+            "img": "http://p1.music.126.net/_XRP0Yia_0uf17VefBqXfQ==/109951163071939783.jpg?param=130y130"
+          },
+          {
+            "id": "0006",
+            "songId": "4",
+            "songName": "Way Back Into Love - (《K歌情人》插曲)",
+            "singer": "aley Bennett"
+          },
+          {
+            "id": "0007",
+            "songId": "5",
+            "songName": "Anything But Ordinary",
+            "singer": "Avril Lavigne"
+          },
+          {
+            "id": "0008",
+            "songId": "6",
+            "songName": "Little Do You Know",
+            "singer": "Campsite Dream"
+          },
+          {
+            "id": "0009",
+            "songId": "7",
+            "songName": "We Are Young",
+            "singer": "Fun./Janelle Monáe"
+          },
+          {
+            "id": "0010",
+            "songId": "8",
+            "songName": "Nothing on you",
+            "singer": "邓福如"
+          },
+          {
+            "id": "0011",
+            "songId": "9",
+            "songName": "Gotta Have You",
+            "singer": "The Weepies"
+          },
+          {
+            "id": "0012",
+            "songId": "10",
+            "songName": "Dream It Possible",
+            "singer": "Delacey"
+          },
+          {
+            "id": "0013",
+            "songId": "11",
+            "songName": "How Long",
+            "singer": "Charlie Puth"
+          },
+          {
+            "id": "0014",
+            "songId": "12",
+            "songName": "Cool Kids",
+            "singer": "Echosmith"
+          },
+          {
+            "id": "0015",
+            "songId": "13",
+            "songName": "This Is What You Came For ",
+            "singer": "Calvin Harris/Rihanna"
+          },
+          {
+            "id": "0016",
+            "songId": "14",
+            "songName": "怎么说我不爱你",
+            "singer": "萧敬腾"
+          },
+          {
+            "id": "0017",
+            "songId": "15",
+            "songName": "特别的人 - (Special Person)",
+            "singer": "方大同"
+          }
+        ]
+      },{
+        "id": "0002",
+        "img": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+        "title": "大卫爱上泰勒斯威夫特",
+        "num": "28",
+        "songs": [
+          {
+            "songId": "1",
+            "songName": "Don't Blame me",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "2",
+            "songName": "Look What You Make Me Do",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "3",
+            "songName": "Red",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "4",
+            "songName": "Blank Space",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "5",
+            "songName": "Clean",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "6",
+            "songName": "Love Story",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "7",
+            "songName": "You Belong With Me",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "8",
+            "songName": "We Are Never Ever Geting Back Together",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "9",
+            "songName": "Bad Blood",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "10",
+            "songName": "22",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "11",
+            "songName": "Back To December",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "12",
+            "songName": "Wildest Dream",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "13",
+            "songName": "Welcome to NewYork",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "14",
+            "songName": "Style",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "15",
+            "songName": "Gorgeous",
+            "singer": "Taylor Swift"
+          },{
+            "songId": "16",
+            "songName": "Love Story",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "17",
+            "songName": "Babe",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "18",
+            "songName": "I Knew You Were Trouble",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "19",
+            "songName": "...Ready For It?",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "20",
+            "songName": "Shake It Off",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "21",
+            "songName": "Safe And Sound",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "22",
+            "songName": "Highway Don't care",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "23",
+            "songName": "New Romantics",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "24",
+            "songName": "So It Goes...",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "25",
+            "songName": "Out Of The Woods",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "26",
+            "songName": "How You Get The Girl",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "27",
+            "songName": "I Wish You Would",
+            "singer": "Taylor Swift"
+          },
+          {
+            "songId": "28",
+            "songName": "Everything Has Changed",
+            "singer": "Taylor Swift"
+          }
+        ]
+      }, {
+        "id": "0003",
+        "img": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+        "title": "华语经典,是青春,是回忆",
+        "num": "36",
+        "songs": [
+          {
+            "songId": "1",
+            "songName": "小酒窝",
+            "singer": "林俊杰/蔡卓妍"
+          },{
+            "songId": "2",
+            "songName": "一千年以后",
+            "singer": "林俊杰"
+          },{
+            "songId": "3",
+            "songName": "她说",
+            "singer": "林俊杰"
+          },{
+            "songId": "4",
+            "songName": "可惜没如果",
+            "singer": "林俊杰"
+          },{
+            "songId": "5",
+            "songName": "告白气球",
+            "singer": "周杰伦"
+          },{
+            "songId": "6",
+            "songName": "千百度",
+            "singer": "许嵩"
+          },{
+            "songId": "7",
+            "songName": "成都",
+            "singer": "赵雷"
+          },{
+            "songId": "8",
+            "songName": "遥远的她",
+            "singer": "张学友"
+          },{
+            "songId": "9",
+            "songName": "孤独的星星",
+            "singer": "九日"
+          },{
+            "songId": "10",
+            "songName": "失落沙洲",
+            "singer": "徐佳莹"
+          },{
+            "songId": "11",
+            "songName": "星星点灯",
+            "singer": "郑智化"
+          },{
+            "songId": "12",
+            "songName": "水手",
+            "singer": "郑智化"
+          },{
+            "songId": "13",
+            "songName": "斑马,斑马",
+            "singer": "宋冬野"
+          },{
+            "songId": "14",
+            "songName": "房间",
+            "singer": "刘瑞琦"
+          },{
+            "songId": "15",
+            "songName": "丑八怪",
+            "singer": "薛之谦"
+          },{
+            "songId": "16",
+            "songName": "演员",
+            "singer": "薛之谦"
+          },{
+            "songId": "17",
+            "songName": "爱就一个字",
+            "singer": "张信哲"
+          },{
+            "songId": "18",
+            "songName": "有一种爱叫做放手",
+            "singer": "阿木"
+          },{
+            "songId": "19",
+            "songName": "消失的月光",
+            "singer": "李建"
+          },{
+            "songId": "20",
+            "songName": "不将就",
+            "singer": "李荣浩"
+          },{
+            "songId": "21",
+            "songName": "喜欢你",
+            "singer": "邓紫棋"
+          },{
+            "songId": "22",
+            "songName": "北京东路的日子",
+            "singer": "刘千楚/徐逸昊/鲁天舒/姜玮珉/胡梦原/张鎏依/梁竞元/游彧涵/金书援/许一璇/汪源/张夙西"
+          },{
+            "songId": "23",
+            "songName": "过火",
+            "singer": "张信哲"
+          },{
+            "songId": "24",
+            "songName": "爱如潮水",
+            "singer": "张信哲"
+          },{
+            "songId": "25",
+            "songName": "大海",
+            "singer": "张雨生"
+          },{
+            "songId": "26",
+            "songName": "被你度过漫长岁月",
+            "singer": "陈奕迅"
+          },{
+            "songId": "27",
+            "songName": "千千阙歌",
+            "singer": "陈慧娴"
+          },{
+            "songId": "28",
+            "songName": "浮夸",
+            "singer": "陈奕迅"
+          },{
+            "songId": "29",
+            "songName": "十年",
+            "singer": "陈奕迅"
+          },{
+            "songId": "30",
+            "songName": "宁夏",
+            "singer": "梁静茹"
+          },{
+            "songId": "31",
+            "songName": "k歌之王",
+            "singer": "陈奕迅"
+          },{
+            "songId": "32",
+            "songName": "岁月如歌",
+            "singer": "陈奕迅"
+          },{
+            "songId": "33",
+            "songName": "禄卡",
+            "singer": "陈奕迅"
+          },{
+            "songId": "34",
+            "songName": "你的背包",
+            "singer": "陈奕迅"
+          },{
+            "songId": "35",
+            "songName": "爱情转移",
+            "singer": "陈奕迅"
+          },{
+            "songId": "36",
+            "songName": "稳稳的幸福",
+            "singer": "陈奕迅"
+          }
+        ]
+      }
+    ]
+  }
+}

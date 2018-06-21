@@ -1,0 +1,31 @@
+{
+  "ret": true,
+	"data": {
+    "songs": [{
+      "id": "0001",
+      "img": "http://p3.music.126.net/Ai4yPgdz-9OW8Qb2_SiFoQ==/109951163299387917.jpg",
+      "name": "哑巴",
+      "singer": "薛之谦"
+    },{
+      "id": "0002",
+      "img": "http://p3.music.126.net/PXE9MfYCgnjHz1vkrpUywQ==/109951163290871736.jpg?param=177y177",
+      "name": "纸短情长",
+      "singer": "花粥"
+    },{
+      "id": "0003",
+      "img": "http://p4.music.126.net/W9HqFsgMcjgWjW9SutIvrw==/18956679974613469.jpg",
+      "name": "魔鬼中的天使",
+      "singer": "田馥甄"
+    },{
+      "id": "0004",
+      "img": "http://p1.music.126.net/h_1u3v9vTCRWN_ZJlVdQkQ==/18523472395121303.jpg?param=130y130",
+      "name": "不用去猜",
+      "singer": "Jony J"
+    },{
+      "id": "0005",
+      "img": "http://p1.music.126.net/_XRP0Yia_0uf17VefBqXfQ==/109951163071939783.jpg?param=130y130",
+      "name": "想把你留在这里 - (电影《芳华》推广曲)",
+      "singer": "Tizzy T/Jony J"
+    }]
+  }
+}

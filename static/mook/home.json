@@ -1,0 +1,52 @@
+{
+	"ret": true,
+	"data": {
+		"createdList": [{
+			"id": "0001",
+			"img": "http://oiq8j9er1.bkt.clouddn.com/music_far%20away.jpg",
+			"title": "我喜欢的音乐",
+			"num": "15"
+		}, {
+			"id": "0002",
+			"img": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+			"title": "大卫爱上泰勒斯威夫特",
+			"num": "28"
+		}, {
+			"id": "0003",
+			"img": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+			"title": "华语经典,是青春,是回忆",
+			"num": "36"
+		}],
+		"LikedList": [{
+			"id": "0004",
+			"img": "http://oiq8j9er1.bkt.clouddn.com/music_owl_city.jpg",
+			"title": "赶走阴霾 来一首欢快的欧美小调",
+			"num": "100",
+			"author": "鹿白川"
+		}, {
+			"id": "0005",
+			"img": "http://p1.music.126.net/vgd6txpq0uyfSxsIYnR88Q==/19087521858760216.jpg?param=140y140",
+			"title": "下次理发我要让我的Tony播放这个歌单",
+			"num": "120",
+			"author": "圈圈扒欧美"
+		}, {
+			"id": "0006",
+			"img": "http://oiq8j9er1.bkt.clouddn.com/music_You%E2%80%99re%20Not%20Alone.jpg",
+			"title": "欧美风格的音乐，安静的听",
+			"num": "78",
+			"author": "不来也不去"
+		}, {
+			"id": "0007",
+			"img": "http://oiq8j9er1.bkt.clouddn.com/music_chinaO.jpg",
+			"title": "秋乏症打盹专用瘫",
+			"num": "41",
+			"author": "冲田竹子"
+		}, {
+			"id": "0008",
+			"img": "http://p1.music.126.net/_MQPs_M-xvWtDQa_v1SvQw==/3382097768268687.jpg?param=200y200",
+			"title": "那些好听到发疯的粤语歌",
+			"num": "381",
+			"author": "天寒地冻日"
+		}]
+	}
+}
