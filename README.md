@@ -19,4 +19,5 @@ npm run build --report
 ```
 学习Vuex中...遇到了数据传递的问题
 目前还没完成音乐的播放,小型播放器,以及社区等功能.
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
